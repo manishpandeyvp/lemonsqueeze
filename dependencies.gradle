@@ -1,0 +1,5 @@
+ext {
+    versions = [
+            compose-bom : '2022.10.00'
+    ]
+}
